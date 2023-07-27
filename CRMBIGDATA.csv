@@ -1,0 +1,1001 @@
+﻿Account,OpportunityID,SalesAgent,DealStage,Product,ProductSalesPrice,CloseDate,CloseValue,CreatedOn,accountsEmployees,clicksSource,clicksIndustry
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Referral,Telecom
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Organic,Health Care
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Paid,Health Care
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Paid,IT
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Organic,Telecom
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Social,IT
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Organic,Health Care
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Referral,Health Care
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Social,Retail/Entertainment
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Email,SaaS
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Social,Education
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Social,Telecom
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Social,Health Care
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Social,Education
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Social,Telecom
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Direct,SaaS
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Email,Telecom
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Organic,IT
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Paid,IT
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Email,Finance
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Organic,SaaS
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Email,IT
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Direct,SaaS
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Paid,SaaS
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Email,Finance
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Direct,IT
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Social,Retail/Entertainment
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Email,Telecom
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Social,Education
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Email,IT
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Referral,Education
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Organic,Retail/Entertainment
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Organic,Finance
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Organic,IT
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Paid,Finance
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Referral,IT
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Paid,Retail/Entertainment
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Organic,IT
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Organic,Finance
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Organic,Education
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Referral,Health Care
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Paid,Finance
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Paid,Health Care
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Organic,Education
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Referral,SaaS
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Paid,Retail/Entertainment
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Email,SaaS
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Email,Finance
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Email,Finance
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Referral,Telecom
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Social,Health Care
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Referral,Finance
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Referral,Health Care
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Paid,Finance
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Organic,Education
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Organic,Education
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Direct,Telecom
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Direct,SaaS
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Paid,Retail/Entertainment
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Referral,Telecom
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Organic,Retail/Entertainment
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Referral,Finance
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Direct,SaaS
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Organic,IT
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Social,Education
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Paid,SaaS
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Referral,Health Care
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Social,Finance
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Referral,Education
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Paid,Telecom
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Social,Telecom
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Organic,Health Care
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Paid,Telecom
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Social,Finance
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Direct,Finance
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Social,Education
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Organic,Health Care
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Social,SaaS
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Direct,SaaS
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Organic,SaaS
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Paid,Telecom
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Email,Telecom
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Referral,Education
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Referral,IT
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Social,Telecom
+Sunnamplex,67HY0MW7,Donn Cantrell,Won,GTXBasic,641,6/5/2017,500,24/04/2017,13938,Direct,IT
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Referral,Telecom
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Organic,Health Care
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Paid,Health Care
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Paid,IT
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Organic,Telecom
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Social,IT
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Organic,Health Care
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Referral,Health Care
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Social,Retail/Entertainment
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Email,SaaS
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Social,Education
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Social,Telecom
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Social,Health Care
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Social,Education
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Social,Telecom
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Direct,SaaS
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Email,Telecom
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Organic,IT
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Paid,IT
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Email,Finance
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Organic,SaaS
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Email,IT
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Direct,SaaS
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Paid,SaaS
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Email,Finance
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Direct,IT
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Social,Retail/Entertainment
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Email,Telecom
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Social,Education
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Email,IT
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Referral,Education
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Organic,Retail/Entertainment
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Organic,Finance
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Organic,IT
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Paid,Finance
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Referral,IT
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Paid,Retail/Entertainment
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Organic,IT
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Organic,Finance
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Organic,Education
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Referral,Health Care
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Paid,Finance
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Paid,Health Care
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Organic,Education
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Referral,SaaS
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Paid,Retail/Entertainment
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Email,SaaS
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Email,Finance
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Email,Finance
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Referral,Telecom
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Social,Health Care
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Referral,Finance
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Referral,Health Care
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Paid,Finance
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Organic,Education
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Organic,Education
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Direct,Telecom
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Direct,SaaS
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Paid,Retail/Entertainment
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Referral,Telecom
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Organic,Retail/Entertainment
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Referral,Finance
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Direct,SaaS
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Organic,IT
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Social,Education
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Paid,SaaS
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Referral,Health Care
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Social,Finance
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Referral,Education
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Paid,Telecom
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Social,Telecom
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Organic,Health Care
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Paid,Telecom
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Social,Finance
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Direct,Finance
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Social,Education
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Organic,Health Care
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Social,SaaS
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Direct,SaaS
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Organic,SaaS
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Paid,Telecom
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Email,Telecom
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Referral,Education
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Referral,IT
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Social,Telecom
+Customers,NOGYL390,Kary Hendrixson,Lost,GTXPlusPro,6395,2/7/2017,0,24/04/2017,,Direct,IT
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Referral,Telecom
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Organic,Health Care
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Paid,Health Care
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Paid,IT
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Organic,Telecom
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Social,IT
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Organic,Health Care
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Referral,Health Care
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Social,Retail/Entertainment
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Email,SaaS
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Social,Education
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Social,Telecom
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Social,Health Care
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Social,Education
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Social,Telecom
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Direct,SaaS
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Email,Telecom
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Organic,IT
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Paid,IT
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Email,Finance
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Organic,SaaS
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Email,IT
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Direct,SaaS
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Paid,SaaS
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Email,Finance
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Direct,IT
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Social,Retail/Entertainment
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Email,Telecom
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Social,Education
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Email,IT
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Referral,Education
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Organic,Retail/Entertainment
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Organic,Finance
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Organic,IT
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Paid,Finance
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Referral,IT
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Paid,Retail/Entertainment
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Organic,IT
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Organic,Finance
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Organic,Education
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Referral,Health Care
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Paid,Finance
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Paid,Health Care
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Organic,Education
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Referral,SaaS
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Paid,Retail/Entertainment
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Email,SaaS
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Email,Finance
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Email,Finance
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Referral,Telecom
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Social,Health Care
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Referral,Finance
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Referral,Health Care
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Paid,Finance
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Organic,Education
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Organic,Education
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Direct,Telecom
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Direct,SaaS
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Paid,Retail/Entertainment
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Referral,Telecom
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Organic,Retail/Entertainment
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Referral,Finance
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Direct,SaaS
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Organic,IT
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Social,Education
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Paid,SaaS
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Referral,Health Care
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Social,Finance
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Referral,Education
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Paid,Telecom
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Social,Telecom
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Organic,Health Care
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Paid,Telecom
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Social,Finance
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Direct,Finance
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Social,Education
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Organic,Health Care
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Social,SaaS
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Direct,SaaS
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Organic,SaaS
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Paid,Telecom
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Email,Telecom
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Referral,Education
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Referral,IT
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Social,Telecom
+Wonka Industries,0R9LAY2G,Markita Hansen,Lost,GTXPro,5624,8/7/2017,0,24/04/2017,4687,Direct,IT
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Referral,Telecom
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Organic,Health Care
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Paid,Health Care
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Paid,IT
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Organic,Telecom
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Social,IT
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Organic,Health Care
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Referral,Health Care
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Social,Retail/Entertainment
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Email,SaaS
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Social,Education
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Social,Telecom
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Social,Health Care
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Social,Education
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Social,Telecom
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Direct,SaaS
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Email,Telecom
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Organic,IT
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Paid,IT
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Email,Finance
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Organic,SaaS
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Email,IT
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Direct,SaaS
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Paid,SaaS
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Email,Finance
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Direct,IT
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Social,Retail/Entertainment
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Email,Telecom
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Social,Education
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Email,IT
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Referral,Education
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Organic,Retail/Entertainment
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Organic,Finance
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Organic,IT
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Paid,Finance
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Referral,IT
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Paid,Retail/Entertainment
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Organic,IT
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Organic,Finance
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Organic,Education
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Referral,Health Care
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Paid,Finance
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Paid,Health Care
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Organic,Education
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Referral,SaaS
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Paid,Retail/Entertainment
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Email,SaaS
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Email,Finance
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Email,Finance
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Referral,Telecom
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Social,Health Care
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Referral,Finance
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Referral,Health Care
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Paid,Finance
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Organic,Education
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Organic,Education
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Direct,Telecom
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Direct,SaaS
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Paid,Retail/Entertainment
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Referral,Telecom
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Organic,Retail/Entertainment
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Referral,Finance
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Direct,SaaS
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Organic,IT
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Social,Education
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Paid,SaaS
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Referral,Health Care
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Social,Finance
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Referral,Education
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Paid,Telecom
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Social,Telecom
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Organic,Health Care
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Paid,Telecom
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Social,Finance
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Direct,Finance
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Social,Education
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Organic,Health Care
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Social,SaaS
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Direct,SaaS
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Organic,SaaS
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Paid,Telecom
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Email,Telecom
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Referral,Education
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Referral,IT
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Social,Telecom
+Customers,M1DYLAAF,Maureen Marcano,In_Progress,MGRPFS,64,,,24/04/2017,,Direct,IT
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Referral,Telecom
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Organic,Health Care
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Paid,Health Care
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Paid,IT
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Organic,Telecom
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Social,IT
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Organic,Health Care
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Referral,Health Care
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Social,Retail/Entertainment
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Email,SaaS
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Social,Education
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Social,Telecom
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Social,Health Care
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Social,Education
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Social,Telecom
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Direct,SaaS
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Email,Telecom
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Organic,IT
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Paid,IT
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Email,Finance
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Organic,SaaS
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Email,IT
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Direct,SaaS
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Paid,SaaS
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Email,Finance
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Direct,IT
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Social,Retail/Entertainment
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Email,Telecom
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Social,Education
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Email,IT
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Referral,Education
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Organic,Retail/Entertainment
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Organic,Finance
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Organic,IT
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Paid,Finance
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Referral,IT
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Paid,Retail/Entertainment
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Organic,IT
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Organic,Finance
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Organic,Education
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Referral,Health Care
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Paid,Finance
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Paid,Health Care
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Organic,Education
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Referral,SaaS
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Paid,Retail/Entertainment
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Email,SaaS
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Email,Finance
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Email,Finance
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Referral,Telecom
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Social,Health Care
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Referral,Finance
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Referral,Health Care
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Paid,Finance
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Organic,Education
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Organic,Education
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Direct,Telecom
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Direct,SaaS
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Paid,Retail/Entertainment
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Referral,Telecom
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Organic,Retail/Entertainment
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Referral,Finance
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Direct,SaaS
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Organic,IT
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Social,Education
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Paid,SaaS
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Referral,Health Care
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Social,Finance
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Referral,Education
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Paid,Telecom
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Social,Telecom
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Organic,Health Care
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Paid,Telecom
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Social,Finance
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Direct,Finance
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Social,Education
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Organic,Health Care
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Social,SaaS
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Direct,SaaS
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Organic,SaaS
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Paid,Telecom
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Email,Telecom
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Referral,Education
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Referral,IT
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Social,Telecom
+Customers,RLJECFJ9,Corliss Cosme,In_Progress,GTXPro,5624,,,24/04/2017,,Direct,IT
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Referral,Telecom
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Organic,Health Care
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Paid,Health Care
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Paid,IT
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Organic,Telecom
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Social,IT
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Organic,Health Care
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Referral,Health Care
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Social,Retail/Entertainment
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Email,SaaS
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Social,Education
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Social,Telecom
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Social,Health Care
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Social,Education
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Social,Telecom
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Direct,SaaS
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Email,Telecom
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Organic,IT
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Paid,IT
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Email,Finance
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Organic,SaaS
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Email,IT
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Direct,SaaS
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Paid,SaaS
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Email,Finance
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Direct,IT
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Social,Retail/Entertainment
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Email,Telecom
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Social,Education
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Email,IT
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Referral,Education
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Organic,Retail/Entertainment
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Organic,Finance
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Organic,IT
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Paid,Finance
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Referral,IT
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Paid,Retail/Entertainment
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Organic,IT
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Organic,Finance
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Organic,Education
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Referral,Health Care
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Paid,Finance
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Paid,Health Care
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Organic,Education
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Referral,SaaS
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Paid,Retail/Entertainment
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Email,SaaS
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Email,Finance
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Email,Finance
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Referral,Telecom
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Social,Health Care
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Referral,Finance
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Referral,Health Care
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Paid,Finance
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Organic,Education
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Organic,Education
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Direct,Telecom
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Direct,SaaS
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Paid,Retail/Entertainment
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Referral,Telecom
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Organic,Retail/Entertainment
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Referral,Finance
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Direct,SaaS
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Organic,IT
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Social,Education
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Paid,SaaS
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Referral,Health Care
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Social,Finance
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Referral,Education
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Paid,Telecom
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Social,Telecom
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Organic,Health Care
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Paid,Telecom
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Social,Finance
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Direct,Finance
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Social,Education
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Organic,Health Care
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Social,SaaS
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Direct,SaaS
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Organic,SaaS
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Paid,Telecom
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Email,Telecom
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Referral,Education
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Referral,IT
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Social,Telecom
+Inity,LZEJ60F5,Kami Bicknell,In_Progress,MGRPFS,64,,,24/04/2017,3431,Direct,IT
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Referral,Telecom
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Organic,Health Care
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Paid,Health Care
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Paid,IT
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Organic,Telecom
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Social,IT
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Organic,Health Care
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Referral,Health Care
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Social,Retail/Entertainment
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Email,SaaS
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Social,Education
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Social,Telecom
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Social,Health Care
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Social,Education
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Social,Telecom
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Direct,SaaS
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Email,Telecom
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Organic,IT
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Paid,IT
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Email,Finance
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Organic,SaaS
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Email,IT
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Direct,SaaS
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Paid,SaaS
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Email,Finance
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Direct,IT
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Social,Retail/Entertainment
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Email,Telecom
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Social,Education
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Email,IT
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Referral,Education
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Organic,Retail/Entertainment
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Organic,Finance
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Organic,IT
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Paid,Finance
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Referral,IT
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Paid,Retail/Entertainment
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Organic,IT
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Organic,Finance
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Organic,Education
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Referral,Health Care
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Paid,Finance
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Paid,Health Care
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Organic,Education
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Referral,SaaS
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Paid,Retail/Entertainment
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Email,SaaS
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Email,Finance
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Email,Finance
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Referral,Telecom
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Social,Health Care
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Referral,Finance
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Referral,Health Care
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Paid,Finance
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Organic,Education
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Organic,Education
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Direct,Telecom
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Direct,SaaS
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Paid,Retail/Entertainment
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Referral,Telecom
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Organic,Retail/Entertainment
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Referral,Finance
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Direct,SaaS
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Organic,IT
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Social,Education
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Paid,SaaS
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Referral,Health Care
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Social,Finance
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Referral,Education
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Paid,Telecom
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Social,Telecom
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Organic,Health Care
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Paid,Telecom
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Social,Finance
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Direct,Finance
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Social,Education
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Organic,Health Care
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Social,SaaS
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Direct,SaaS
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Organic,SaaS
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Paid,Telecom
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Email,Telecom
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Referral,Education
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Referral,IT
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Social,Telecom
+Customers,AOY0RBJW,Darcel Schlecht,In_Progress,GTXPlusBasic,1279,,,24/04/2017,,Direct,IT
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Referral,Telecom
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Organic,Health Care
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Paid,Health Care
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Paid,IT
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Organic,Telecom
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Social,IT
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Organic,Health Care
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Referral,Health Care
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Social,Retail/Entertainment
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Email,SaaS
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Social,Education
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Social,Telecom
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Social,Health Care
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Social,Education
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Social,Telecom
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Direct,SaaS
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Email,Telecom
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Organic,IT
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Paid,IT
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Email,Finance
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Organic,SaaS
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Email,IT
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Direct,SaaS
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Paid,SaaS
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Email,Finance
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Direct,IT
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Social,Retail/Entertainment
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Email,Telecom
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Social,Education
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Email,IT
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Referral,Education
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Organic,Retail/Entertainment
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Organic,Finance
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Organic,IT
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Paid,Finance
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Referral,IT
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Paid,Retail/Entertainment
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Organic,IT
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Organic,Finance
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Organic,Education
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Referral,Health Care
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Paid,Finance
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Paid,Health Care
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Organic,Education
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Referral,SaaS
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Paid,Retail/Entertainment
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Email,SaaS
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Email,Finance
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Email,Finance
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Referral,Telecom
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Social,Health Care
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Referral,Finance
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Referral,Health Care
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Paid,Finance
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Organic,Education
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Organic,Education
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Direct,Telecom
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Direct,SaaS
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Paid,Retail/Entertainment
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Referral,Telecom
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Organic,Retail/Entertainment
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Referral,Finance
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Direct,SaaS
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Organic,IT
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Social,Education
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Paid,SaaS
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Referral,Health Care
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Social,Finance
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Referral,Education
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Paid,Telecom
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Social,Telecom
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Organic,Health Care
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Paid,Telecom
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Social,Finance
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Direct,Finance
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Social,Education
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Organic,Health Care
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Social,SaaS
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Direct,SaaS
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Organic,SaaS
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Paid,Telecom
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Email,Telecom
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Referral,Education
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Referral,IT
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Social,Telecom
+Kinnamplus,CZED8XXM,Marty Freudenburg,Won,GTXPlusBasic,1279,4/7/2017,1558,24/04/2017,3412,Direct,IT
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Referral,Telecom
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Organic,Health Care
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Paid,Health Care
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Paid,IT
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Organic,Telecom
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Social,IT
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Organic,Health Care
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Referral,Health Care
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Social,Retail/Entertainment
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Email,SaaS
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Social,Education
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Social,Telecom
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Social,Health Care
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Social,Education
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Social,Telecom
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Direct,SaaS
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Email,Telecom
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Organic,IT
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Paid,IT
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Email,Finance
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Organic,SaaS
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Email,IT
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Direct,SaaS
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Paid,SaaS
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Email,Finance
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Direct,IT
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Social,Retail/Entertainment
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Email,Telecom
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Social,Education
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Email,IT
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Referral,Education
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Organic,Retail/Entertainment
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Organic,Finance
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Organic,IT
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Paid,Finance
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Referral,IT
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Paid,Retail/Entertainment
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Organic,IT
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Organic,Finance
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Organic,Education
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Referral,Health Care
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Paid,Finance
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Paid,Health Care
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Organic,Education
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Referral,SaaS
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Paid,Retail/Entertainment
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Email,SaaS
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Email,Finance
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Email,Finance
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Referral,Telecom
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Social,Health Care
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Referral,Finance
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Referral,Health Care
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Paid,Finance
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Organic,Education
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Organic,Education
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Direct,Telecom
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Direct,SaaS
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Paid,Retail/Entertainment
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Referral,Telecom
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Organic,Retail/Entertainment
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Referral,Finance
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Direct,SaaS
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Organic,IT
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Social,Education
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Paid,SaaS
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Referral,Health Care
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Social,Finance
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Referral,Education
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Paid,Telecom
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Social,Telecom
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Organic,Health Care
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Paid,Telecom
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Social,Finance
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Direct,Finance
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Social,Education
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Organic,Health Care
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Social,SaaS
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Direct,SaaS
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Organic,SaaS
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Paid,Telecom
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Email,Telecom
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Referral,Education
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Referral,IT
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Social,Telecom
+Silis,P7I2NSQR,Cecily Lampkin,In_Progress,MGRPFS,64,,,24/04/2017,18053,Direct,IT
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Referral,Telecom
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Organic,Health Care
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Paid,Health Care
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Paid,IT
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Organic,Telecom
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Social,IT
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Organic,Health Care
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Referral,Health Care
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Social,Retail/Entertainment
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Email,SaaS
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Social,Education
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Social,Telecom
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Social,Health Care
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Social,Education
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Social,Telecom
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Direct,SaaS
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Email,Telecom
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Organic,IT
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Paid,IT
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Email,Finance
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Organic,SaaS
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Email,IT
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Direct,SaaS
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Paid,SaaS
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Email,Finance
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Direct,IT
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Social,Retail/Entertainment
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Email,Telecom
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Social,Education
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Email,IT
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Referral,Education
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Organic,Retail/Entertainment
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Organic,Finance
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Organic,IT
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Paid,Finance
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Referral,IT
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Paid,Retail/Entertainment
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Organic,IT
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Organic,Finance
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Organic,Education
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Referral,Health Care
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Paid,Finance
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Paid,Health Care
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Organic,Education
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Referral,SaaS
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Paid,Retail/Entertainment
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Email,SaaS
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Email,Finance
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Email,Finance
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Referral,Telecom
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Social,Health Care
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Referral,Finance
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Referral,Health Care
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Paid,Finance
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Organic,Education
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Organic,Education
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Direct,Telecom
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Direct,SaaS
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Paid,Retail/Entertainment
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Referral,Telecom
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Organic,Retail/Entertainment
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Referral,Finance
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Direct,SaaS
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Organic,IT
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Social,Education
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Paid,SaaS
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Referral,Health Care
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Social,Finance
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Referral,Education
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Paid,Telecom
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Social,Telecom
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Organic,Health Care
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Paid,Telecom
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Social,Finance
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Direct,Finance
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Social,Education
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Organic,Health Care
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Social,SaaS
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Direct,SaaS
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Organic,SaaS
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Paid,Telecom
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Email,Telecom
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Referral,Education
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Referral,IT
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Social,Telecom
+Gekko & Co,OJBBBPDQ,Cassey Cress,Lost,GTXPro,5624,10/7/2017,0,24/04/2017,9251,Direct,IT
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Referral,Telecom
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Organic,Health Care
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Paid,Health Care
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Paid,IT
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Organic,Telecom
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Social,IT
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Organic,Health Care
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Referral,Health Care
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Social,Retail/Entertainment
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Email,SaaS
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Social,Education
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Social,Telecom
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Social,Health Care
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Social,Education
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Social,Telecom
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Direct,SaaS
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Email,Telecom
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Organic,IT
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Paid,IT
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Email,Finance
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Organic,SaaS
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Email,IT
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Direct,SaaS
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Paid,SaaS
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Email,Finance
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Direct,IT
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Social,Retail/Entertainment
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Email,Telecom
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Social,Education
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Email,IT
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Referral,Education
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Organic,Retail/Entertainment
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Organic,Finance
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Organic,IT
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Paid,Finance
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Referral,IT
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Paid,Retail/Entertainment
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Organic,IT
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Organic,Finance
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Organic,Education
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Referral,Health Care
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Paid,Finance
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Paid,Health Care
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Organic,Education
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Referral,SaaS
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Paid,Retail/Entertainment
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Email,SaaS
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Email,Finance
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Email,Finance
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Referral,Telecom
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Social,Health Care
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Referral,Finance
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Referral,Health Care
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Paid,Finance
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Organic,Education
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Organic,Education
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Direct,Telecom
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Direct,SaaS
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Paid,Retail/Entertainment
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Referral,Telecom
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Organic,Retail/Entertainment
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Referral,Finance
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Direct,SaaS
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Organic,IT
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Social,Education
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Paid,SaaS
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Referral,Health Care
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Social,Finance
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Referral,Education
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Paid,Telecom
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Social,Telecom
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Organic,Health Care
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Paid,Telecom
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Social,Finance
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Direct,Finance
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Social,Education
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Organic,Health Care
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Social,SaaS
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Direct,SaaS
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Organic,SaaS
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Paid,Telecom
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Email,Telecom
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Referral,Education
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Referral,IT
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Social,Telecom
+Xx-zobam,YRYQGQQP,Darcel Schlecht,Won,GTXPro,5624,12/6/2017,7608,24/04/2017,757,Direct,IT
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Referral,Telecom
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Organic,Health Care
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Paid,Health Care
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Paid,IT
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Organic,Telecom
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Social,IT
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Organic,Health Care
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Referral,Health Care
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Social,Retail/Entertainment
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Email,SaaS
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Social,Education
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Social,Telecom
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Social,Health Care
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Social,Education
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Social,Telecom
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Direct,SaaS
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Email,Telecom
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Organic,IT
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Paid,IT
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Email,Finance
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Organic,SaaS
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Email,IT
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Direct,SaaS
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Paid,SaaS
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Email,Finance
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Direct,IT
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Social,Retail/Entertainment
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Email,Telecom
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Social,Education
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Email,IT
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Referral,Education
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Organic,Retail/Entertainment
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Organic,Finance
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Organic,IT
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Paid,Finance
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Referral,IT
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Paid,Retail/Entertainment
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Organic,IT
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Organic,Finance
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Organic,Education
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Referral,Health Care
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Paid,Finance
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Paid,Health Care
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Organic,Education
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Referral,SaaS
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Paid,Retail/Entertainment
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Email,SaaS
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Email,Finance
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Email,Finance
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Referral,Telecom
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Social,Health Care
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Referral,Finance
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Referral,Health Care
+Customers,L703WW74,Elease Gluck,In_Progress,MGRPFU,3959,,,24/04/2017,,Paid,Finance
